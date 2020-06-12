@@ -1,0 +1,5 @@
+com\mengxuegu\springcloud\ProductProvider_8001.class
+com\mengxuegu\springcloud\controller\ProductController.class
+com\mengxuegu\springcloud\service\impl\ProductServiceImpl.class
+com\mengxuegu\springcloud\service\ProductService.class
+com\mengxuegu\springcloud\mapper\ProductMapper.class

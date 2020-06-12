@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/microservice-cloud-01/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-02-api/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-03-provider-product-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-04-consumer-product-80/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-05-eureka-6001/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/fff/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

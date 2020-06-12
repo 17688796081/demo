@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
