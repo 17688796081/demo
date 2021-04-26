@@ -8,5 +8,7 @@ package com.mengxuegu.springcloud.entities;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println();
+        System.out.println("111");
+        int i = 0;
     }
 }
