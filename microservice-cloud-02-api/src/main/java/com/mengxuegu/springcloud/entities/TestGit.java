@@ -10,6 +10,5 @@ public class TestGit {
         System.out.println();
         System.out.println("111");
         int i = 0;
-        int i = 0;
     }
 }
